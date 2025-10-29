@@ -1,0 +1,5 @@
+{
+  "name": "Nmap Visualizer AI",
+  "description": "An interactive tool to visualize Nmap XML scan results as a network graph and perform AI-powered security analysis on discovered hosts.",
+  "requestFramePermissions": []
+}
